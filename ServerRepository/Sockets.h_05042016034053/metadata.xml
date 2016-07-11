@@ -1,0 +1,17 @@
+
+  <metadata>
+    <status>
+      Open
+    
+    </status>
+    <file>
+      Sockets.h
+    
+    </file>
+    <dependencies>
+      <dependency>
+        Sockets.cpp
+      
+      </dependency>
+    </dependencies>
+  </metadata>

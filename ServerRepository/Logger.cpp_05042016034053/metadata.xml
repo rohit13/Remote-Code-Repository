@@ -1,0 +1,17 @@
+
+  <metadata>
+    <status>
+      Open
+    
+    </status>
+    <file>
+      Logger.cpp
+    
+    </file>
+    <dependencies>
+      <dependency>
+        Sockets.h
+      
+      </dependency>
+    </dependencies>
+  </metadata>

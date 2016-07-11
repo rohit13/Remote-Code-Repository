@@ -1,0 +1,9 @@
+<input>
+	<package>testpackage</package>
+	<operation>Check-In</operation>
+	<status>Open</status>
+	<file>Sockets.cpp</file>
+	<dependencies>
+		<dependency>Sockets.h</dependency>
+	</dependencies>
+</input>

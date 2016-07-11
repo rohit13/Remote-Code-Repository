@@ -1,0 +1,10 @@
+<input>
+	<package>testpackage</package>
+	<operation>Extraction</operation>
+	<depsflag>Yes</depsflag>
+	<status>Open</status>
+	<file>Logger.cpp</file>
+	<dependencies>
+		<dependency>Sockets.h</dependency>
+	</dependencies>
+</input>
